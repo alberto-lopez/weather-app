@@ -9,3 +9,9 @@ Execute following commands:
 ```
 npm install
 ```
+
+To search for a weather situation on the requested city
+
+```
+node app -a "New York USA"
+```
